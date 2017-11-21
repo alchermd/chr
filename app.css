@@ -11,3 +11,7 @@ h1 {
 img {
     margin-bottom: 10%;
 }
+
+.navbar-nav .nav-item+.nav-item {
+    margin-left: 0;
+}
